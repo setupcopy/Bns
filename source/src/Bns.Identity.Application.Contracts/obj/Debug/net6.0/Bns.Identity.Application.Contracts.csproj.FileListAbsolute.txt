@@ -1,0 +1,15 @@
+C:\lz\studyDemo\Bns\source\src\Bns.Identity.Application.Contracts\bin\Debug\net6.0\Bns.Identity.Application.Contracts.deps.json
+C:\lz\studyDemo\Bns\source\src\Bns.Identity.Application.Contracts\bin\Debug\net6.0\Bns.Identity.Application.Contracts.dll
+C:\lz\studyDemo\Bns\source\src\Bns.Identity.Application.Contracts\bin\Debug\net6.0\Bns.Identity.Application.Contracts.pdb
+C:\lz\studyDemo\Bns\source\src\Bns.Identity.Application.Contracts\bin\Debug\net6.0\Bns.Identity.Domain.Shared.dll
+C:\lz\studyDemo\Bns\source\src\Bns.Identity.Application.Contracts\bin\Debug\net6.0\Bns.Identity.Domain.Shared.pdb
+C:\lz\studyDemo\Bns\source\src\Bns.Identity.Application.Contracts\obj\Debug\net6.0\Bns.Identity.Application.Contracts.csproj.AssemblyReference.cache
+C:\lz\studyDemo\Bns\source\src\Bns.Identity.Application.Contracts\obj\Debug\net6.0\Bns.Identity.Application.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\lz\studyDemo\Bns\source\src\Bns.Identity.Application.Contracts\obj\Debug\net6.0\Bns.Identity.Application.Contracts.AssemblyInfoInputs.cache
+C:\lz\studyDemo\Bns\source\src\Bns.Identity.Application.Contracts\obj\Debug\net6.0\Bns.Identity.Application.Contracts.AssemblyInfo.cs
+C:\lz\studyDemo\Bns\source\src\Bns.Identity.Application.Contracts\obj\Debug\net6.0\Bns.Identity.Application.Contracts.csproj.CoreCompileInputs.cache
+C:\lz\studyDemo\Bns\source\src\Bns.Identity.Application.Contracts\obj\Debug\net6.0\Bns.Identity.Application.Contracts.csproj.CopyComplete
+C:\lz\studyDemo\Bns\source\src\Bns.Identity.Application.Contracts\obj\Debug\net6.0\Bns.Identity.Application.Contracts.dll
+C:\lz\studyDemo\Bns\source\src\Bns.Identity.Application.Contracts\obj\Debug\net6.0\refint\Bns.Identity.Application.Contracts.dll
+C:\lz\studyDemo\Bns\source\src\Bns.Identity.Application.Contracts\obj\Debug\net6.0\Bns.Identity.Application.Contracts.pdb
+C:\lz\studyDemo\Bns\source\src\Bns.Identity.Application.Contracts\obj\Debug\net6.0\ref\Bns.Identity.Application.Contracts.dll

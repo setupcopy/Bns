@@ -1,0 +1,291 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\lz\\studyDemo\\Bns\\source\\src\\Bns.Identity.Dbmigrator\\Bns.Identity.Dbmigrator.csproj": {}
+  },
+  "projects": {
+    "C:\\lz\\studyDemo\\Bns\\source\\src\\Bns.Identity.Dbmigrator\\Bns.Identity.Dbmigrator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\lz\\studyDemo\\Bns\\source\\src\\Bns.Identity.Dbmigrator\\Bns.Identity.Dbmigrator.csproj",
+        "projectName": "Bns.Identity.Dbmigrator",
+        "projectPath": "C:\\lz\\studyDemo\\Bns\\source\\src\\Bns.Identity.Dbmigrator\\Bns.Identity.Dbmigrator.csproj",
+        "packagesPath": "C:\\Users\\Setup\\.nuget\\packages\\",
+        "outputPath": "C:\\lz\\studyDemo\\Bns\\source\\src\\Bns.Identity.Dbmigrator\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Setup\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\lz\\studyDemo\\Bns\\source\\src\\Bns.Identity.EntityFrameworkCore\\Bns.Identity.EntityFrameworkCore.csproj": {
+                "projectPath": "C:\\lz\\studyDemo\\Bns\\source\\src\\Bns.Identity.EntityFrameworkCore\\Bns.Identity.EntityFrameworkCore.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Volo.Abp.AspNetCore": {
+              "target": "Package",
+              "version": "[5.2.2, )"
+            },
+            "Volo.Abp.Autofac": {
+              "target": "Package",
+              "version": "[5.2.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\lz\\studyDemo\\Bns\\source\\src\\Bns.Identity.Domain.Shared\\Bns.Identity.Domain.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\lz\\studyDemo\\Bns\\source\\src\\Bns.Identity.Domain.Shared\\Bns.Identity.Domain.Shared.csproj",
+        "projectName": "Bns.Identity.Domain.Shared",
+        "projectPath": "C:\\lz\\studyDemo\\Bns\\source\\src\\Bns.Identity.Domain.Shared\\Bns.Identity.Domain.Shared.csproj",
+        "packagesPath": "C:\\Users\\Setup\\.nuget\\packages\\",
+        "outputPath": "C:\\lz\\studyDemo\\Bns\\source\\src\\Bns.Identity.Domain.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Setup\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Volo.Abp.AspNetCore": {
+              "target": "Package",
+              "version": "[5.2.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\lz\\studyDemo\\Bns\\source\\src\\Bns.Identity.Domain\\Bns.Identity.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\lz\\studyDemo\\Bns\\source\\src\\Bns.Identity.Domain\\Bns.Identity.Domain.csproj",
+        "projectName": "Bns.Identity.Domain",
+        "projectPath": "C:\\lz\\studyDemo\\Bns\\source\\src\\Bns.Identity.Domain\\Bns.Identity.Domain.csproj",
+        "packagesPath": "C:\\Users\\Setup\\.nuget\\packages\\",
+        "outputPath": "C:\\lz\\studyDemo\\Bns\\source\\src\\Bns.Identity.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Setup\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNet.Identity.Core": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "Volo.Abp.AspNetCore": {
+              "target": "Package",
+              "version": "[5.2.1, )"
+            },
+            "Volo.Abp.Ddd.Domain": {
+              "target": "Package",
+              "version": "[5.2.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\lz\\studyDemo\\Bns\\source\\src\\Bns.Identity.EntityFrameworkCore\\Bns.Identity.EntityFrameworkCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\lz\\studyDemo\\Bns\\source\\src\\Bns.Identity.EntityFrameworkCore\\Bns.Identity.EntityFrameworkCore.csproj",
+        "projectName": "Bns.Identity.EntityFrameworkCore",
+        "projectPath": "C:\\lz\\studyDemo\\Bns\\source\\src\\Bns.Identity.EntityFrameworkCore\\Bns.Identity.EntityFrameworkCore.csproj",
+        "packagesPath": "C:\\Users\\Setup\\.nuget\\packages\\",
+        "outputPath": "C:\\lz\\studyDemo\\Bns\\source\\src\\Bns.Identity.EntityFrameworkCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Setup\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\lz\\studyDemo\\Bns\\source\\src\\Bns.Identity.Domain.Shared\\Bns.Identity.Domain.Shared.csproj": {
+                "projectPath": "C:\\lz\\studyDemo\\Bns\\source\\src\\Bns.Identity.Domain.Shared\\Bns.Identity.Domain.Shared.csproj"
+              },
+              "C:\\lz\\studyDemo\\Bns\\source\\src\\Bns.Identity.Domain\\Bns.Identity.Domain.csproj": {
+                "projectPath": "C:\\lz\\studyDemo\\Bns\\source\\src\\Bns.Identity.Domain\\Bns.Identity.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
+            "Volo.Abp.AspNetCore": {
+              "target": "Package",
+              "version": "[5.2.1, )"
+            },
+            "Volo.Abp.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.2.1, )"
+            },
+            "Volo.Abp.EntityFrameworkCore.MySQL": {
+              "target": "Package",
+              "version": "[5.2.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

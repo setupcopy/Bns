@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "vmlHFxhbCNwEJIQwj6UpFxBdqh2qWRJDMq16Vj2ceG0=",
+  "Source": "Bns.Identity.HttpApi",
+  "BasePath": "_content/Bns.Identity.HttpApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

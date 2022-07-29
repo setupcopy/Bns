@@ -1,0 +1,12 @@
+C:\lz\studyDemo\Bns\source\src\Bns.Identity.Domain.Shared\bin\Debug\net6.0\Bns.Identity.Domain.Shared.deps.json
+C:\lz\studyDemo\Bns\source\src\Bns.Identity.Domain.Shared\bin\Debug\net6.0\Bns.Identity.Domain.Shared.dll
+C:\lz\studyDemo\Bns\source\src\Bns.Identity.Domain.Shared\bin\Debug\net6.0\Bns.Identity.Domain.Shared.pdb
+C:\lz\studyDemo\Bns\source\src\Bns.Identity.Domain.Shared\obj\Debug\net6.0\Bns.Identity.Domain.Shared.csproj.AssemblyReference.cache
+C:\lz\studyDemo\Bns\source\src\Bns.Identity.Domain.Shared\obj\Debug\net6.0\Bns.Identity.Domain.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\lz\studyDemo\Bns\source\src\Bns.Identity.Domain.Shared\obj\Debug\net6.0\Bns.Identity.Domain.Shared.AssemblyInfoInputs.cache
+C:\lz\studyDemo\Bns\source\src\Bns.Identity.Domain.Shared\obj\Debug\net6.0\Bns.Identity.Domain.Shared.AssemblyInfo.cs
+C:\lz\studyDemo\Bns\source\src\Bns.Identity.Domain.Shared\obj\Debug\net6.0\Bns.Identity.Domain.Shared.csproj.CoreCompileInputs.cache
+C:\lz\studyDemo\Bns\source\src\Bns.Identity.Domain.Shared\obj\Debug\net6.0\Bns.Identity.Domain.Shared.dll
+C:\lz\studyDemo\Bns\source\src\Bns.Identity.Domain.Shared\obj\Debug\net6.0\refint\Bns.Identity.Domain.Shared.dll
+C:\lz\studyDemo\Bns\source\src\Bns.Identity.Domain.Shared\obj\Debug\net6.0\Bns.Identity.Domain.Shared.pdb
+C:\lz\studyDemo\Bns\source\src\Bns.Identity.Domain.Shared\obj\Debug\net6.0\ref\Bns.Identity.Domain.Shared.dll
